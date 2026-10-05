@@ -13,4 +13,4 @@ Introduction to Git and GitHub
 - CONTRIBUTING.md: how to contribute
 - simple-interest.sh: a Bash simple interest calculator
 
-2022 XYZ, Inc.
+2023 XYZ, Inc.
