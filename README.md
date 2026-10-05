@@ -1,4 +1,3 @@
-
 # Introduction to Git and GitHub
 
 This project is my final project for the Introduction to Git and GitHub course.
