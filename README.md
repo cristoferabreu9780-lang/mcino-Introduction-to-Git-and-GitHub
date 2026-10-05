@@ -12,3 +12,5 @@ Introduction to Git and GitHub
 - CODE_OF_CONDUCT.md: community standards
 - CONTRIBUTING.md: how to contribute
 - simple-interest.sh: a Bash simple interest calculator
+
+2022 XYZ, Inc.
